@@ -29,7 +29,7 @@ For detailed information on Kedarkantha Trek, visit the [Himalayan Hikers - Keda
 
 ## Photos:
 Here are some images of the trek:
-![Kedarkantha Trek](https://link-to-your-image.com)  <!-- Replace with actual image URL -->
+![Kedarkantha Trek]([https://link-to-your-image.com](https://himalayanhikers.in/root-admin-laravel-panel/uploads/trek_gallery/68d8e2444f68d.jpg))  <!-- Replace with actual image URL -->
 
 ## Social Media & More:
 - Follow on Instagram: [@KedarkanthaTrek](https://www.instagram.com/himalayan_hikers/)
