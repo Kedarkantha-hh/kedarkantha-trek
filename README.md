@@ -9,7 +9,6 @@ The Kedarkantha Trek is one of the most popular winter treks in India. Located i
 - **Difficulty Level**: Moderate to Challenging
 
 ## Why Choose Kedarkantha Trek?
-
 - Beautiful scenic views
 - Snow-covered landscapes during winter
 - Opportunities for camping and star-gazing
@@ -19,7 +18,6 @@ The Kedarkantha Trek is one of the most popular winter treks in India. Located i
 For detailed information on Kedarkantha Trek, visit the [Himalayan Hikers - Kedarkantha Trek](https://himalayanhikers.in/kedarkantha-trek).
 
 ## How to Prepare for the Trek:
-
 - **Physical Fitness**: Make sure you are physically prepared for the trek, with some cardio or hiking practice.
 - **What to Pack**:
   - Warm clothes (layers are important)
@@ -34,7 +32,7 @@ Here are some images of the trek:
 ![Kedarkantha Trek](https://link-to-your-image.com)  <!-- Replace with actual image URL -->
 
 ## Social Media & More:
-- Follow on Instagram: [@KedarkanthaTrek](https://www.instagram.com/yourhandle)
+- Follow on Instagram: [@KedarkanthaTrek](https://www.instagram.com/himalayan_hikers/)
 - Check out more detailed guides on the official website: [Himalayan Hikers - Kedarkantha Trek](https://himalayanhikers.in/kedarkantha-trek)
 
 ---
